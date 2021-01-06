@@ -1,0 +1,1 @@
+![Metrics](https://metrics.lecoq.io/ajatdarojat45?template=classic&tweets=1&stars=1&projects=1&posts=1&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FJakarta)
