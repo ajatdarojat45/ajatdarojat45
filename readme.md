@@ -13,8 +13,6 @@
   <img align="right" top="500" height="50" width="50" alt="profile" src="https://avatars.githubusercontent.com/u/23049322?v=4" style="border-radius:50%">
 </a>
 
-- 🔭 I’m currently working in <a href="https://github.com/hacktiv8" target="blank">Hacktiv8</a>
-
 - 🌱 I’m currently Working on Fullstack Javascript
 
 - 🤝 I’m available for freelancing.
