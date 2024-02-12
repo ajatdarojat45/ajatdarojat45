@@ -13,9 +13,9 @@
   <img align="right" top="500" height="50" width="50" alt="profile" src="https://avatars.githubusercontent.com/u/23049322?v=4" style="border-radius:50%">
 </a>
 
-Hello! My name is Ajat Darojat and I am a software engineer and coding instructor. I am active in communities and contribute to open-source projects such as [Sequelize](https://sequelize.org/) and [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler).
+A software engineer and coding instructor. Active in communities and contribute to open-source projects such as [Sequelize](https://sequelize.org/) and [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler).
 
-Also, I am developing my own open-source project called [Mongoloquent](https://github.com/ajatdarojat45/mongoloquent), a MongoDB ORM library for Javascript. It is an MIT-licensed open-source project and completely free to use.
+Also, develop open-source project called [Mongoloquent](https://github.com/ajatdarojat45/mongoloquent), a MongoDB ORM library for Javascript. It is an MIT-licensed open-source project and completely free to use.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
