@@ -15,7 +15,7 @@
 
 A software engineer and coding instructor. Active in communities and contribute to open-source projects such as [Sequelize](https://sequelize.org/) and [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler).
 
-Also, develop open-source project called [Mongoloquent](https://github.com/ajatdarojat45/mongoloquent), a MongoDB ORM library for Javascript;/Typescript. It is an MIT-licensed open-source project and completely free to use.
+Also, develop open-source project called [Mongoloquent](https://github.com/ajatdarojat45/mongoloquent), a MongoDB ORM library for Javascript/Typescript. It is an MIT-licensed open-source project and completely free to use.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
