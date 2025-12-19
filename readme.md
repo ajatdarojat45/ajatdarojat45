@@ -20,7 +20,7 @@
 
 A software engineer and coding instructor. Active in communities and contribute to open-source projects such as [Sequelize](https://sequelize.org/), [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler) and [CHORAS](https://github.com/choras-org).
 
-Also develop open-source projects like [Mongoloquent](https://github.com/ajatdarojat45/mongoloquent), a MongoDB ORM library for Javascript/Typescript and [@mongoloquent/nestjs](https://github.com/ajatdarojat45/mongoloquent-nestjs), the official [NestJS](https://nestjs.com) integration module for Mongoloquent and [CommitMate.nvim](https://github.com/ajatdarojat45/commitmate.nvim). Both are MIT-licensed open-source projects and completely free to use.
+Also develop open-source projects like [Mongoloquent](https://github.com/ajatdarojat45/mongoloquent), a MongoDB ORM library for Javascript/Typescript and [@mongoloquent/nestjs](https://github.com/ajatdarojat45/mongoloquent-nestjs), the official [NestJS](https://nestjs.com) integration module for Mongoloquent and [CommitMate.nvim](https://github.com/ajatdarojat45/commitmate.nvim). Those are MIT-licensed open-source projects and completely free to use.
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
