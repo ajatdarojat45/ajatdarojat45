@@ -8,11 +8,6 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCpxSUUCkGuYjajhNxsEo0fQ?label=Subscribe%20Digicode%20Academy&style=social" alt="Digicode Academy" />
   </a>
 </p>
-<p align="left"> 
-  <a href="https://www.youtube.com/UC_nJ40dhUQFewWOuC6caIqw?view_as=subscriber" target="blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_nJ40dhUQFewWOuC6caIqw?label=Subscribe%20Code%20Play%20Indonesia&style=social" alt="Code Play Indonesia" />
-  </a>
-</p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="50" width="50" alt="profile" src="https://avatars.githubusercontent.com/u/23049322?v=4" style="border-radius:50%">
